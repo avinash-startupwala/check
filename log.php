@@ -39,7 +39,7 @@
       
       <ul class="tab-group">
        
-        <li class="tab "><a href="#login">Log In</a></li>
+        <li class="tab active"><a href="#login">Log In</a></li>
          <li class="tab "><a href="https://still-ridge-44294.herokuapp.com/index2.html">Sign Up</a></li>
       </ul>
       

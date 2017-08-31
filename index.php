@@ -1,3 +1,8 @@
+
+<html>
+<head>
+  <script>alert("Welcome Startupwala");</script>
+  </head>
 <?php
 
 
@@ -8,3 +13,5 @@ welcome
 <?php
 
 ?>
+  
+</html>
